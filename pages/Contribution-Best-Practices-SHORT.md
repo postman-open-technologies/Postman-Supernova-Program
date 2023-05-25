@@ -60,4 +60,4 @@
 **Writing**
 - [Grammarly](https://www.grammarly.com)
 
-*Submit other free tools via an [Issue](https://github.com/Kcorb95/Postman-Supernova-Program-Resources/issues).*
+*Submit other free tools via an [Issue](https://github.com/postman-open-technologies/Postman-Supernova-Program/issues).*
