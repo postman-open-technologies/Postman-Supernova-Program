@@ -10,7 +10,7 @@ Join us over on the [discussion tab](https://github.com/postman-open-technologie
 #### Overview
 - [What is a Postman Supernova?](https://github.com/postman-open-technologies/Postman-Supernova-Program/blob/main/pages/What-Is-a-Postman-Supernova.md)
 - [Apply Now](https://www.postman.com/company/supernovas-program/)
-- [Current Supernova](https://github.com/postman-open-technologies/Postman-Supernova-Programs/blob/main/pages/Current-Supernova.md)
+- [Current Supernova](https://github.com/postman-open-technologies/Postman-Supernova-Program/blob/main/pages/Current-Supernova.md)
 
 #### Contribution Resources
 - [How to Contribute / Making Contributions](https://github.com/postman-open-technologies/Postman-Supernova-Program/blob/main/pages/How-To-Contribute.md)
