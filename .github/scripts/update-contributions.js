@@ -110,15 +110,15 @@ async function run() {
     console.log(octokit.repos);
 
     const { data: { sha: currentSha } } = await octokit.rest.repos.getContent({
-      owner: "Kcorb95",
-      repo: "Postman-Supernova-Program-Resources",
+      owner: "postman-open-technologies",
+      repo: "Postman-Supernova-Program",
       path: filePath,
       ref: "main"
     });
 
     const commit = await octokit.rest.repos.createOrUpdateFileContents({
-      owner: "Kcorb95",
-      repo: "Postman-Supernova-Program-Resources",
+      owner: "postman-open-technologies",
+      repo: "Postman-Supernova-Program",
       path: filePath,
       message: `New contribution: ${contributionName} by ${contributionAuthor}`,
       committer: {
