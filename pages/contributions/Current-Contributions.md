@@ -5,9 +5,9 @@ As a Supernova, you are responsible for submitting your contributions via pull r
 See "How To Contribute" for information on how to do this.
 
 ## Archives
-- [2023](https://github.com/Kcorb95/Postman-Supernova-Program-Resources/blob/main/pages/contributions/Current-Contributions.md#2023)
-- [2022](https://github.com/Kcorb95/Postman-Supernova-Program-Resources/blob/main/pages/contributions/Current-Contributions.md#2022)
-- [2021](https://github.com/Kcorb95/Postman-Supernova-Program-Resources/blob/main/pages/contributions/Current-Contributions.md#2021)
+- [2023](https://github.com/postman-open-technologies/Postman-Supernova-Program/blob/main/pages/contributions/Current-Contributions.md#2023)
+- [2022](https://github.com/postman-open-technologies/Postman-Supernova-Program/blob/main/pages/contributions/Current-Contributions.md#2022)
+- [2021](https://github.com/postman-open-technologies/Postman-Supernova-Program/blob/main/pages/contributions/Current-Contributions.md#2021)
 
 ## 2023
 - Jan. 13th: [Teste de contrato com o Postman - parte 1](https://www.youtube.com/watch?v=PFMXOyTjgcE) by Cristina Nazário
