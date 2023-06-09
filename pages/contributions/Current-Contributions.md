@@ -30,6 +30,7 @@ See "How To Contribute" for information on how to do this.
 - May. 16th: [Fun with Chat GPT API](https://www.linkedin.com/posts/intive_webinar-fun-with-chatgpt-api-parte-2-activity-7063910307903004672-ceae/) by Fabián Feld
 - May. 21st: [Verify HTML Value Using cheerio.js | Web Scraping Using cheerio.js](https://youtu.be/2IUA5rc7PmI) by Md Moeen Ajaz Khan
 - May. 21st: [How To Import Swagger in Postman for API Testing](https://youtu.be/kl0EBu4nROk) by Md Moeen Ajaz Khan
+- May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 
 ## 2022
 - Jan. 8th: [Getting Started with Postman for Beginners in Backend Development](https://drive.google.com/file/d/1G3PRCh02T8VUm7PD7tHya6YFll5yucjB/view?usp=sharing) by Deborah Emeni
