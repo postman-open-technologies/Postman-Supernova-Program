@@ -32,6 +32,7 @@ See "How To Contribute" for information on how to do this.
 - May. 21st: [Verify HTML Value Using cheerio.js | Web Scraping Using cheerio.js](https://youtu.be/2IUA5rc7PmI) by Md Moeen Ajaz Khan
 - May. 21st: [How To Import Swagger in Postman for API Testing](https://youtu.be/kl0EBu4nROk) by Md Moeen Ajaz Khan
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
+- Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
 
 ## 2022
