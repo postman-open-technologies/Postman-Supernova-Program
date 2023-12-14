@@ -37,7 +37,7 @@ jobs:
     - name: Install Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14.x'
+        node-version: 'lts'
     - name: Install dependencies
       run: npm install @actions/core @actions/github
     - name: Run update-contributions.js
