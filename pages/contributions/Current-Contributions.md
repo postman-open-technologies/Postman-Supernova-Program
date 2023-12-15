@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Nov. 22nd: [Mastering in API Testing With Postman](https://www.eventbrite.com/e/mastering-api-testing-with-postman-free-webinar-tickets-760690113607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) by Saravanan Seenivasan
 - Nov. 30th: [Talk at Iberoamerican Chatbot and Conversational AI Summit 3rd Edition About Conversational AI](https://iberoamericanchatbot.com/en/#second-section) by Xavier Portilla Edo
 - Dec. 12th: [API Testing tutorials 1 - Idempotency, Safe, Cache and Versioning Concept](https://mobiletestingtip.blogspot.com/2023/12/api-testing-tutorials-1-idempotency.html) by Saif Siddiqui
 
