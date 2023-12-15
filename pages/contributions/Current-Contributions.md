@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Nov. 8th: [Android Study Jam – Sesión 5: Bonus](https://gdg.community.dev/events/details/google-gdg-madrid-presents-android-study-jam-sesion-5-bonus/) by Xavier Portilla Edo
 - Nov. 11th: [AWS Community Day Mexico (Event)](https://awscommunity.mx/communityday/) by Vicente Gerardo Guzmán Lucio
 - Nov. 11th: [DevFest Mt Kenya](https://gdg.community.dev/events/details/google-gdg-nyeri-presents-devfest-mt-kenya/) by Edwin Kuria
 - Nov. 13th: [GitHub Awards 2023: The Spanish People at GitHub Universe](https://www.codemotion.com/magazine/es/dev-life-es/github-awards-2023/) by Xavier Portilla Edo
