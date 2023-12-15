@@ -36,6 +36,7 @@ See "How To Contribute" for information on how to do this.
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
 - Nov. 22nd: [Mastering in API Testing With Postman](https://www.eventbrite.com/e/mastering-api-testing-with-postman-free-webinar-tickets-760690113607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) by Saravanan Seenivasan
 - Nov. 22nd: [Workshop at CodeMotion Workshop Fest About Conversational AI](https://codemo.tech/EventbriteWorkshopFest) by Xavier Portilla Edo
+- Nov. 22nd: [Integrate Alexa With VoiceFlow](https://dzone.com/articles/integrate-alexa-with-voiceflow) by Xavier Portilla Edo
 - Nov. 30th: [Talk at Iberoamerican Chatbot and Conversational AI Summit 3rd Edition About Conversational AI](https://iberoamericanchatbot.com/en/#second-section) by Xavier Portilla Edo
 - Dec. 12th: [API Testing tutorials 1 - Idempotency, Safe, Cache and Versioning Concept](https://mobiletestingtip.blogspot.com/2023/12/api-testing-tutorials-1-idempotency.html) by Saif Siddiqui
 
