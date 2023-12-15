@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Oct. 12th: [What’s Like To Use Postman for Data Visualization](https://www.linkedin.com/feed/update/urn:li:activity:7118727501878616064/) by teri eyenike
 - Oct. 21st: [Introduction to API Documentation Webinar](https://x.com/TechnicalWriti6/status/1714615654995628299?s=20) by Wisdom Nwokocha
 - Oct. 28th: [API Mastery Workshop: Unleash the Power of Postman](https://youtu.be/YywM20-23D8) by Enoch Osarenren
 - Nov. 5th: [Judge of GDSC Minerva Hackathon](https://gdscminerva-devhack.devpost.com/) by Xavier Portilla Edo
