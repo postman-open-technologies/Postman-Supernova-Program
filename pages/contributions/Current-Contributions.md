@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Nov. 19th: [WTM Madrid: The Eyes of Smart Manufacturing and the World of Hackers.](https://gdg.community.dev/events/details/google-gdg-madrid-presents-wtm-madrid-los-ojos-del-smart-manufacturing-y-el-mundo-de-los-hackers/) by Xavier Portilla Edo
 - Nov. 22nd: [Mastering in API Testing With Postman](https://www.eventbrite.com/e/mastering-api-testing-with-postman-free-webinar-tickets-760690113607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) by Saravanan Seenivasan
 - Nov. 22nd: [Workshop at CodeMotion Workshop Fest About Conversational AI](https://codemo.tech/EventbriteWorkshopFest) by Xavier Portilla Edo
 - Nov. 22nd: [Integrate Alexa With VoiceFlow](https://dzone.com/articles/integrate-alexa-with-voiceflow) by Xavier Portilla Edo
