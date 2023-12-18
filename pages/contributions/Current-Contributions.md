@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Sep. 21st: [Explorando o Postbot](https://programador.tv/Watch?key=5e3ca40d-7fef-453b-9c6c-08dbafd99b1b) by Cristina Nazário
 - Sep. 23rd: [Generative AI Meets Postman API Testing](https://www.thetesttribe.com/testflix-2023-valentin-despa/) by Valentin Despa
 - Sep. 23rd: [Mastering the Art of Prompt Engineering: Elevating Your Testing Game](https://www.youtube.com/watch?v=fgJm4flXCzo&t=4s) by Pricilla Bilavendran
 - Oct. 6th: [DevopsDays Madrid 2023](https://devopsdays.org/madrid) by Xavier Portilla Edo
