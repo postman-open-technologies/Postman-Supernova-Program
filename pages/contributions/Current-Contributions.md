@@ -14,6 +14,7 @@ See "How To Contribute" for information on how to do this.
 - Jan. 16th: [Securing API Endpoints /w Amazon Cognito & Testing the OAuth 2.0 Client Credentials Flow with Postman](https://medium.com/apis-with-valentine/securing-your-api-endpoints-with-amazon-cognito-and-testing-the-oauth-2-0-49d9d527dc6d) by Valentin Despa
 - Jan. 19th: [Teste de contrato com o Postman - parte 2](https://youtu.be/cHmLtTx1US4) by Cristina Nazário
 - Jan. 21st: [Test the Tribe Chennai Meetup](https://www.thetesttribe.com/the-test-tribe-7th-chennai-meetup/) by Saravanan Seenivasan
+- Jan. 26th: [API Testing Tips](https://youtu.be/yCIWZFkbcOI) by Pricilla Bilavendran
 - Feb. 3rd: [APIs are the nexus of modern software development](https://twitter.com/alopezari/status/1621495341106216963) by Alex Lopez
 - Feb. 11th: [Postman - An API Testing Tool (Basic to Advance Tutorial)](https://www.youtube.com/watch?v=b8X24Afl_G4&list=PL3IwAics3J0ef1VZCgmwRuZASzAi7eNcT) by Md Moeen Ajaz Khan
 - Feb. 16th: [Postman – An API Testing Tool](https://www.codewithmmak.com/postman/) by Md Moeen Ajaz Khan
