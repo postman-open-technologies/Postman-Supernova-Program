@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Jul. 9th: [World of Microservices Blog Series](https://www.linkedin.com/company/world-of-microservices/) by Abhinav Patel
 - Jul. 22nd: [Postman Crash: Efficient Software Testing with Postman](https://tix.africa/buy/postman-crash-efficient-software-testing-with-postman) by Funke Olasupo
 - Jul. 22nd: [Postman Crash: Efficient API Testing with Postman](https://tix.africa/buy/postman-crash-efficient-software-testing-with-postman) by Abubakar Ismail
 - Jul. 25th: [La Espera Ha Terminado, Postman & VS Code](https://vicenteguzman.com/postman/2023-07-25-postman-and-vscode/) by Vicente Gerardo Guzm'an Lucio
