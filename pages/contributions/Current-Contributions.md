@@ -35,6 +35,7 @@ See "How To Contribute" for information on how to do this.
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
 - Aug. 10th: [Performance Testing and Postman Tests(Postbot) using Postman tool](https://youtu.be/a97qaLW2nEU) by Monish Correia
+- Aug. 10th: [Amazon API Gateway + Postman 🚀☁️](https://tin-slouch-6e6.notion.site/Amazon-API-Gateway-Postman-3d12e4bf8d0a4bb2a2c88e0d5e884cdb?pvs=4) by Muhammad Awais
 - Aug. 16th: [Connect Postman to PostgreSQL](https://www.linkedin.com/posts/sseenivasan89_connect-postman-to-postgresql-database-activity-7097568509030780930--5Z5?utm_source=share&utm_medium=member_desktop) by Saravanan Seenivasan
 - Aug. 16th: [Mastering API Testing: My 30-Day Postman Coding Challenge Journey](https://medium.com/@monish.correia/mastering-api-testing-my-30-day-postman-coding-challenge-journey-16734e340f2a) by Monish Correia
 - Aug. 18th: [Postman with Database Connection](https://www.linkedin.com/posts/sseenivasan89_connect-postman-to-mysql-database-postman-activity-7097896593399431168-RvYv?utm_source=share&utm_medium=member_desktop) by Saravanan Seenivasan
