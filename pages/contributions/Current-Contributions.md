@@ -26,6 +26,7 @@ See "How To Contribute" for information on how to do this.
 - Apr. 11th: [Beginners Guide To Whisper API: Audio to Text Conversion](https://youtu.be/WuiI7FG2L1k) by Valentin Despa
 - Apr. 13th: [Getting Started With the GPT-4 API in Postman](https://medium.com/p/beab175bcd17) by Valentin Despa
 - Apr. 21st: [Data Validation Using Postman](https://medium.com/@sandippalit009/data-validation-using-postman-91960e874a6a) by Sandip Palit
+- Apr. 24th: [Mastering Postman: From Basics to Advanced Testing with CI Integration](https://www.youtube.com/playlist?list=PL-W-TIIzdLb4j4F1H4mlNxh2usqABdOyi) by Sachin Gupta
 - Apr. 25th: [Allure Report for Postman Collection](https://www.youtube.com/watch?v=e7b0X-XIhfA) by Saravanan Seenivasan
 - May. 6th: [Performance Testing Using Postman App](https://youtu.be/V6dwjg0qrUk) by Saravanan Seenivasan
 - May. 16th: [Fun with Chat GPT API](https://www.linkedin.com/posts/intive_webinar-fun-with-chatgpt-api-parte-2-activity-7063910307903004672-ceae/) by Fabián Feld
