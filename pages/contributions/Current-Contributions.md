@@ -33,6 +33,7 @@ See "How To Contribute" for information on how to do this.
 - May. 21st: [How To Import Swagger in Postman for API Testing](https://youtu.be/kl0EBu4nROk) by Md Moeen Ajaz Khan
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
+- Jun. 1st: [Postman LIVE - How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
 - Jun. 17th: [Postman Virtual Workshop ](https://www.townscript.com/e/postman-virtual-workshop-332440) by Sule-balogun Olanrewaju
 - Jun. 30th: [Interação inicial com API REST no Postman.](https://www.youtube.com/watch?v=W30gM6oS0gk&list=PL9xgT86zTB1JzlzyOkf8F16vnRdXZln_Q&pp=iAQB) by Cristina Nazário
