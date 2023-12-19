@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Aug. 29th: [Introduction to Postman](https://events.teams.microsoft.com/event/a14ffa9f-5721-40ee-8b88-e0c3f03ece01@3255b33a-073d-47e4-a4fe-6ab59a3e668e) by Jency Stella
 - Sep. 9th: [Automating Hash Generation With Postman](https://dev.to/tunrayoilawole/automating-hash-generation-with-postman-3i40) by Motunrayo Ilawole
 - Sep. 14th: [Sou QA, vou começar a trabalhar com API e agora?](https://programador.tv/Watch?key=742e10ee-bd9b-484d-9c6b-08dbafd99b1b) by Cristina Nazário
 - Sep. 16th: [Browserstack Mumbai Meetup](https://www.linkedin.com/feed/update/urn:li:activity:7108876695419416576?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7108876695419416576%29) by Monish Correia
