@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Aug. 2nd: [Postman: VSCode Extension](https://dev.to/temitopeagbaje/postman-vscode-extension-3ljc) by Temitope Agbaje
 - Aug. 3rd: [Creating APIs With Flask and Testing in Postman](https://dev.to/terieyenike/creating-apis-with-flask-and-testing-in-postman-2ojn) by teri eyenike
 - Aug. 5th: [Nomoskar Kolkata – The Inaugural Event of Postman Community Kolkata](https://lu.ma/pcknk) by Sandip Palit
 - Aug. 10th: [Performance Testing and Postman Tests(Postbot) using Postman tool](https://youtu.be/a97qaLW2nEU) by Monish Correia
