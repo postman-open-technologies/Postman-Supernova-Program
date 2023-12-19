@@ -34,6 +34,7 @@ See "How To Contribute" for information on how to do this.
 - May. 24th: [API Testing for Everyone](https://agiletestingdays.us/2023/session/api-testing-for-everyone/) by Pricilla Bilavendran
 - Jun. 1st: [How To Begin Securing Your API for Authorization](https://youtu.be/IGTe_POVghg) by Orest Danylewycz
 - Jun. 13th: [Postbot – Postman’s New AI Assistant](https://youtu.be/cOgcuizbxGk) by Saravanan Seenivasan
+- Jun. 30th: [Interação inicial com API REST no Postman.](https://www.youtube.com/watch?v=W30gM6oS0gk&list=PL9xgT86zTB1JzlzyOkf8F16vnRdXZln_Q&pp=iAQB) by Cristina Nazário
 - Jul. 4th: [API Testing Workshop](https://softecasia.org/speakers/) by Pricilla Bilavendran
 - Jul. 9th: [World of Microservices Blog Series](https://www.linkedin.com/company/world-of-microservices/) by Abhinav Patel
 - Jul. 22nd: [Postman Crash: Efficient Software Testing with Postman](https://tix.africa/buy/postman-crash-efficient-software-testing-with-postman) by Funke Olasupo
