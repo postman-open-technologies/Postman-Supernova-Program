@@ -34,6 +34,8 @@ jobs:
       run: echo $PERSONAL_ACCESS_TOKEN
     - name: Checkout Code
       uses: actions/checkout@v2
+      with:
+        persist-credentials: false
     - name: Install Node.js
       uses: actions/setup-node@v2
       with:
